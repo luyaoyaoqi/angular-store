@@ -25,7 +25,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "ac":"ng generate component"
+    "ac":"ng generate component",
+    "as":"ng generate service"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.1",
